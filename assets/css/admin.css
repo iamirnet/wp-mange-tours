@@ -1,0 +1,19 @@
+@import url(fonts.css);
+body {
+    overflow-x: hidden!important;
+}
+h1,h2,h3,h4,h5,h6,h7, li h2 {
+    font-family: "iransans"!important;
+}
+p,em,div,a,input,.post-title,.h-text,.menu-item,.menu-item-date,.topbar-date {
+    font-family: "iranyekan"!important;
+}
+.ppb_title {
+    font-family: "aviny"!important;
+}
+.page_title_content h1 {
+    font-family: "aviny"!important;
+}
+.fa {
+    font-family:  FontAwesome!important;
+}

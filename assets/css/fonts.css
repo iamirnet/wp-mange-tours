@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "aviny";
+    src: url(../fonts/aviny/aviny.ttf) format("truetype");
+}
+@font-face {
+    font-family: "iransans";
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/iransans/IRANSansWeb_Bold.eot);
+    src: url(../fonts/iransans/IRANSansWeb_Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/iransans/IRANSansWeb_Bold.woff) format('woff'), url(../fonts/iransans/IRANSansWeb_Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: "iransans";
+    font-style: normal;
+    font-weight: 200;
+    src: url(../fonts/iransans/IRANSansWeb_Light.eot);
+    src: url(../fonts/iransans/IRANSansWeb_Light.eot?#iefix) format('embedded-opentype'), url(../fonts/iransans/IRANSansWeb_Light.woff) format('woff'), url(../fonts/iransans/IRANSansWeb_Light.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: "iransans";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/iransans/IRANSansWeb_Medium.eot);
+    src: url(../fonts/iransans/IRANSansWeb_Medium.eot?#iefix) format('embedded-opentype'), url(../fonts/iransans/IRANSansWeb_Medium.woff) format('woff'), url(../fonts/iransans/IRANSansWeb_Medium.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: "iranyekan";
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/iranyekan/iranyekanwebboldfanum.eot);
+    src: url(../fonts/iranyekan/iranyekanwebboldfanum.eot?#iefix) format('embedded-opentype'), url(../fonts/iranyekan/iranyekanwebboldfanum.woff) format('woff'), url(../fonts/iranyekan/iranyekanwebboldfanum.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: "iranyekan";
+    font-style: normal;
+    font-weight: 200;
+    src: url(../fonts/iranyekan/iranyekanweblightfanum.eot);
+    src: url(../fonts/iranyekan/iranyekanweblightfanum.eot?#iefix) format('embedded-opentype'), url(../fonts/iranyekan/iranyekanweblightfanum.woff) format('woff'), url(../fonts/iranyekan/iranyekanweblightfanum.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: "iranyekan";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/iranyekan/iranyekanwebregularfanum.eot);
+    src: url(../fonts/iranyekan/iranyekanwebregularfanum.eot?#iefix) format('embedded-opentype'), url(../fonts/iranyekan/iranyekanwebregularfanum.woff) format('woff'), url(../fonts/iranyekan/iranyekanwebregularfanum.ttf) format('truetype')
+}

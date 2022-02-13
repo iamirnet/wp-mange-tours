@@ -1,0 +1,68 @@
+@import url(fonts.css);
+/*#toTop {
+    bottom: 84px !important;
+    left: 28px !important;
+}*/
+.rtl .woocommerce .col2-set .col-1, .rtl .woocommerce-page .col2-set .col-1 {
+    float: right !important;
+}
+.rtl .woocommerce .col2-set .col-2, .rtl .woocommerce-page .col2-set .col-2 {
+    float: left !important;
+}
+.grecaptcha-badge{
+    display: none !important;
+}
+.single_tour_users_online_wrapper {
+    display: none !important;
+}
+.bs-instagram-photo {
+    margin: 0px 6px !important;
+}
+.bs-instagram-photo:last-child {
+    margin-left: 3px !important;
+}
+.footer-instagram-2 .bs-instagram-photo {
+    width: 11.5% !important;
+}
+h1,h2,h3,h4,h5,h6,h7, li h2,.item-link .item-name,#user_login, #user_pass,input {
+    font-family: "iransans"!important;
+}
+p,em,div,a,.post-title,.h-text,.menu-item,.menu-item-date,.topbar-date,.item-link .item-title-join,.bsnp-button,.item-count,.item-title {
+    font-family: "iranyekan"!important;
+}
+.ppb_title {
+    font-family: "aviny"!important;
+}
+.page_title_content h1 {
+    font-family: "aviny"!important;
+}
+.fa {
+    font-family:  FontAwesome!important;
+}
+
+.wpb-js-composer .vc_tta-tabs:not([class*="vc_tta-gap"]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-left .vc_tta-tab > a {
+    border-radius: unset !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+
+.wpb-js-composer .vc_tta.vc_tta-controls-align-left .vc_tta-panel-heading, .wpb-js-composer .vc_tta.vc_tta-controls-align-left .vc_tta-tabs-container {
+    text-align: right !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-title-text:not(:empty):not(:first-child), .wpb-js-composer .vc_tta.vc_general .vc_tta-title-text:not(:empty) ~ * {
+    margin-right: 14px !important;
+    margin-left: 0 !important;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .table {
+        overflow: scroll !important;
+        -ms-overflow-style: -ms-autohiding-scrollbar !important;
+        display: block!important;
+    }
+}
